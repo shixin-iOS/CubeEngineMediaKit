@@ -1,0 +1,6 @@
+framework module CubeEngineMediaKit {
+  umbrella header "CubeEngineMediaKit.h"
+
+  export *
+  module * { export * }
+}
